@@ -1,7 +1,11 @@
 # Integrantes y Roles # 
+
 Yamila Fernández -	COMISIÓN 2 - UML y DAO
+
 Alicia Yasmin Ahumada - COMISIÓN 1 - Entidades
+
 Camila Lihuen Rissi - COMISIÓN 4 - Base de datos y scripts SQL
+
 Rocio Milagros Ocete - COMISIÓN	3 - Service y Menú por consola
 
 Enlace al DRIVE: https://drive.google.com/drive/folders/1pdo4r4Uij1Sjhu1qubwdfO1tGRwpE10u?usp=sharing
